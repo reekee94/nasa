@@ -5,7 +5,9 @@ export const useStyles = makeStyles(theme => ({
       display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
-      height: '100vh'
+      flexDirection: 'column',
+      height: '100vh',
+      boxSizing: 'border-box',
     },
     colorText: {
       color: '#bf360c'

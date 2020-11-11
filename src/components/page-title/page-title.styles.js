@@ -35,7 +35,7 @@ export const useStyles = makeStyles(theme => ({
   },
   title: {
     color: 'black',
-    fontSize: '4.5rem',
+    fontSize: '8vh',
   },
   goDown: {
     color: '#bf360c',

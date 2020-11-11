@@ -18,8 +18,10 @@ A collection of my favourite NASA API's brought together using React and Materia
 
 
 
-## Page Component Template:
-After reiterating over my code structure for the pages I decided the code below was a solid starting template for each page. 
+## How to start instructions
+Download project
+Run in console: npm i
+Run in console: npm start
 
 
 
