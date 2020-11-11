@@ -5,12 +5,17 @@ export const useStyles = makeStyles(theme => ({
         padding: 10,
         display: 'flex',
         flexDirection: 'column',
+        alignSelf: 'center',
         justifyContent: 'center',
-        alignItems: 'strech',
+        alignItems: 'stretch',
         height: '100vh'
     },
-    x:{
+    pag: {
+        margin: '200px',
         justifyContent: "center",
-        padding: "10px"
+        display: "inline-flex",
+        alignSelf: 'center',
+        padding: "10px",
+        backgroundColor: 'red'
     }
 }))
